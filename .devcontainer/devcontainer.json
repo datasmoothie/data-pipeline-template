@@ -8,9 +8,19 @@
   "postCreateCommand": "",
   "customizations": {
     "codespaces": {
-      "openFiles": []
+      "openFiles": [
+        "README.md",
+        "README.html"
+      ]
     },
     "vscode": {
+      "settings":[
+        {
+        "markdown.styles": [
+          "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        ]
+        }
+      ],
       "extensions": [
         "ms-toolsai.jupyter",
         "ms-python.python"
