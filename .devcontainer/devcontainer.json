@@ -9,15 +9,23 @@
   "customizations": {
     "codespaces": {
       "openFiles": [
-        "README.md",
-        "README.html"
-      ]
+        {
+          "file": "README.md",
+          "preview": "side"
+        }
+      ],
     },
+    "settings":{
+      "markdown.styles": [
+        "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+      ]
+    }
+    ,
     "vscode": {
       "settings":[
         {
         "markdown.styles": [
-          "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+          "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css?a=1"
         ]
         }
       ],
