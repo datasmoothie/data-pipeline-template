@@ -9,11 +9,8 @@
   "customizations": {
     "codespaces": {
       "openFiles": [
-        {
-          "file": "README.md",
-          "preview": "side"
-        }
-      ],
+        "README.md"
+      ]
     },
     "settings":{
       "markdown.styles": [
