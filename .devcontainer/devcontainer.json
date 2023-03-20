@@ -5,7 +5,7 @@
   },
   "waitFor": "onCreateCommand",
   "updateContentCommand": "python3 -m pip install -r requirements.txt",
-  "postCreateCommand": "",
+  "postCreateCommand": "echo '📊 To get started with a data pipeline, read our guide here: https://python.datasmoothie.com/pipeline_intro.html'",
   "customizations": {
     "codespaces": {
       "openFiles": [
