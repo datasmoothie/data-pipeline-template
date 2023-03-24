@@ -1,3 +1,4 @@
 datasmoothie-tally-client
+datasmoothie
 papermill
 black
