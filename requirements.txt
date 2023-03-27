@@ -1,4 +1,5 @@
 datasmoothie-tally-client
 datasmoothie
+ipywidgets
 papermill
 black
